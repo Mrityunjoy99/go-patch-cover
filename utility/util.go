@@ -4,7 +4,7 @@ import (
 	"bufio"
 	"errors"
 	"fmt"
-	"go-patch-cover/config"
+	"github.com/Mrityunjoy99/go-patch-cover/config"
 	"os"
 	"regexp"
 	"strconv"

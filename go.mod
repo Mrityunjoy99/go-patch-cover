@@ -1,4 +1,4 @@
-module go-patch-cover
+module github.com/Mrityunjoy99/go-patch-cover
 
 go 1.21
 

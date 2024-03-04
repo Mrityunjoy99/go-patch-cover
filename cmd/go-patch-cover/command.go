@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"flag"
 	"fmt"
-	"go-patch-cover/utility"
+	"github.com/Mrityunjoy99/go-patch-cover/utility"
 	"io"
 	"os"
 	"strings"

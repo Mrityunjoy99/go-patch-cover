@@ -3,7 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"go-patch-cover/utility"
+	"github.com/Mrityunjoy99/go-patch-cover/utility"
 	"os"
 	"regexp"
 	"strings"
