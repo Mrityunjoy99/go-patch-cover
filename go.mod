@@ -3,7 +3,7 @@ module github.com/Mrityunjoy99/go-patch-cover
 go 1.21
 
 require (
-	github.com/bluekeyes/go-gitdiff v0.7.0
+	github.com/bluekeyes/go-gitdiff v0.7.1
 	github.com/spf13/viper v1.18.2
 	golang.org/x/tools v0.13.0
 	gotest.tools/v3 v3.5.0
